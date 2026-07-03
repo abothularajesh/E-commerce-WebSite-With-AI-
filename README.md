@@ -1,4 +1,4 @@
-# AI-Powered E-Commerce Platform
+# 🛒 AI-Powered E-Commerce Platform
 
 A full-stack e-commerce application with integrated AI capabilities — AI-generated product content for admins and a Retrieval-Augmented Generation (RAG) chat assistant for customers to ask about products and track orders.
 
